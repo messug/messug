@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @messug
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Fullstack SoftWare developer
-- 💞️ I’m looking to collaborate on creating apps and showcasing my ability to develope and optimaize Softwares.
-- 📫 How to reach me here
+# Hi there! 👋 I'm Meseret (@messug)
+
+I'm a passionate Fullstack Software Developer with a keen interest in creating innovative and efficient software solutions.
+
+- 🔭 I'm currently working on honing my skills as a Fullstack Software Developer.
+- 🌱 I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving world of software development.
+- 👯 I'm open to collaborating on exciting projects to apply and showcase my development skills.
+- 💬 Feel free to reach out to me if you share a similar passion for software development or if you have an interesting project in mind!
+
+## Get in Touch
+- LinkedIn: [Messug's LinkedIn](www.linkedin.com/in/meseret-gebrezgi-739663229)
+- Email: [mesiteklu2018@gmail.com](mailto:messug@example.com)
+
+## Technologies & Tools
+- Frontend: HTML, CSS, SASS JavaScript, React, NextJs
+- Backend: Node.js, Express
+- Database: MongoDB, Firebase
+- Version Control: Git
+- Tools: VSCode, Git, GitHub
+
+Let's build something amazing together! 🚀
+
 
 <!---
 messug/messug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
