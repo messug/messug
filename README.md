@@ -8,7 +8,7 @@ I'm a passionate Fullstack Software Developer with a keen interest in creating i
 - 💬 Feel free to reach out to me if you share a similar passion for software development or if you have an interesting project in mind!
 
 ## Get in Touch
-- LinkedIn: [Messug's LinkedIn](www.linkedin.com/in/meseret-gebrezgi-739663229)
+- LinkedIn: [Messug's LinkedIn](https://www.linkedin.com/in/meseret-gebrezgi-fsd739663229/)
 - Email: [mesiteklu2018@gmail.com](mailto:messug@example.com)
 
 ## Technologies & Tools
