@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Meseret (@messug)
 
-I'm a passionate Full stack Software Developer with a keen interest in creating innovative and efficient software solutions.
+I'm a passionate Full Stack Software Developer with a keen interest in creating innovative and efficient software solutions.
 
 - 🔭 I'm currently working on honing my skills as a Fullstack Software Developer.
 - 🌱 I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving world of software development.
