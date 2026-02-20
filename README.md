@@ -18,7 +18,7 @@ I'm a passionate Full Stack Software Developer with a keen interest in creating 
 - Version Control: Git
 - Tools: VSCode, Git, GitHub
 
-Let's build something amazing together! 🚀
+Let's build something amazing together! 
 
 
 <!---
